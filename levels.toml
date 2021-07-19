@@ -1,0 +1,7 @@
+output_file = "levels.h"
+input_files = [
+    "F:/Personal/Projects/breakout-editor/breakout-level.bol",
+    "F:/Personal/Projects/breakout-editor/pyramid.bol",
+    "F:/Personal/Projects/breakout-editor/smile.bol",
+    "F:/Personal/Projects/breakout-editor/color-test.bol"
+]
